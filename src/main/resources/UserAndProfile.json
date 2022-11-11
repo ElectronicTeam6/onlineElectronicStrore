@@ -1,0 +1,14 @@
+{
+    "userId": 1,
+    "username": "mike",
+    "password": "mike123",
+    "role": "user",
+    "userProfile": {
+        "profileId": 2,
+        "fullName": "mike junior",
+        "city": "new york",
+        "locations": "Amricas",
+        "email": "mike@gmail.com",
+        "phoneNumber": 9654144814
+
+}}
